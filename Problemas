@@ -1,0 +1,19 @@
+genpopie@genpopie ~/Desktop/CactoblastisGenpopTest $ git init
+Initialized empty Git repository in /home/genpopie/Desktop/CactoblastisGenpopTest/.git/
+
+genpopie@genpopie ~/Desktop/CactoblastisGenpopTest $ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+
+
+genpopie@genpopie ~/Desktop/CactoblastisGenpopTest $ git remote add origin https://github.com/Gab-mtz/CactoblastisGenpopTest.git
+genpopie@genpopie ~/Desktop/CactoblastisGenpopTest $ git push -u origin main
+error: src refspec main does not match any.
+error: failed to push some refs to 'https://github.com/Gab-mtz/CactoblastisGenpopTest.git'
+
