@@ -1,0 +1,1 @@
+This directory contains the script "Trimmomatic.sh" and the file "Sequencing_adaptadors.fasta that you need to clean your data after sequencing. For more information about parameters you can see the manual of trimmomatic.
